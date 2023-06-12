@@ -1,6 +1,6 @@
 <div align=center>
   
-  # <img src="http://readme-typing-svg.herokuapp.com/?size=30&color=FBD1D1&center=true&vCenter=true&lines=%3Ewhoami;I'm+Marlon" />
+  # <img src="http://readme-typing-svg.herokuapp.com/?size=30&color=FBD1D1&center=true&vCenter=true&lines=>Welcome;>I'm+Marlon" />
   
   📫 How to reach me: xar.marlon@gmail.com 
 
